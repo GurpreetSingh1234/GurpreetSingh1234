@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Gurpreet, a cyber security enthusiast.
 - 🌱 I’m currently pursuing an internship in cyber field at HDLD Pty Ltd.
--   I am motivated to learn more about how things work at the backend.
+-   I am motivated to learn more about how things work at the backend, especially in cyber security.
 - 📫 How to reach me- josangurpreet@ymail.com
 
 <!---
